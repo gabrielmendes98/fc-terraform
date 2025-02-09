@@ -66,6 +66,7 @@ terraform destroy
 
 ## Project Structure
 
+```
 .
 ├── main.tf # Main Terraform configuration
 ├── variables.tf # Project-level variables
@@ -74,6 +75,7 @@ terraform destroy
 │ │ ├── main.tf # VPC resource definitions
 │ │ ├── variables.tf # Module variables
 │ │ └── outputs.tf # Module outputs
+```
 
 ## Security Considerations
 
